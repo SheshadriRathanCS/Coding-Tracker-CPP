@@ -50,14 +50,6 @@ Run on Windows:
 .\CodingTracker.exe
 ```
 
-## Future Improvements
-
-- Edit existing problems
-- Sort by difficulty
-- Filter by topic
-- Store solved date
-- GUI version
-
 ## Author
 
 **Sheshadri Rathan**
